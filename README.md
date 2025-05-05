@@ -1,2 +1,1 @@
-# git-t
-First assignment
+# Hello, Git!
